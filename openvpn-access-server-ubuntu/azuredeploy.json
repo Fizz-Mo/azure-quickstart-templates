@@ -46,7 +46,7 @@
       "defaultValue": "14.04.2-LTS",
       "allowedValues": [
         "12.04.5-LTS",
-        "14.04.2-LTS",
+        "16.04-LTS",
         "15.10"
       ],
       "metadata": {
